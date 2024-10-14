@@ -9,15 +9,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifmortada&label=Profile%20views&color=0e75b6&style=flat" alt="seifmortada" /> </p>
 
 ⚡ Skills & Expertise:
-Languages: Kotlin, Java, PHP
-Architecture: MVVM, MVI, Clean Architecture, SOLID principles
-Dependency Injection: Hilt, Koin
-Databases: Room, SQLite, SQL Server, MySQL
-Networking: Retrofit, Volley, SOAP
-Concurrency: Coroutines, RxJava, AsyncLoaders
-Firebase: Auth, Firestore, Storage, and more
-Backend: Firebase, REST APIs, PHP for database connections
-Design: Material Design, Jetpack Compose
+
+- Languages: Kotlin, Java, PHP
+
+- Architecture: MVVM, MVI, Clean Architecture, SOLID principles
+
+- Dependency Injection: Hilt, Koin
+
+- Databases: Room, SQLite, SQL Server, MySQL
+
+- Networking: Retrofit, Volley, SOAP
+
+- Concurrency: Coroutines, RxJava, AsyncLoaders
+
+- Firebase: Auth, Firestore, Storage, and more
+
+- Backend: Firebase, REST APIs, PHP for database connections
+
+- Design: XML, Jetpack Compose
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
