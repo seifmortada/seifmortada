@@ -8,17 +8,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifmortada&label=Profile%20views&color=0e75b6&style=flat" alt="seifmortada" /> </p>
 
-- 🔭 I’m currently working on **developing android apps using kotlin**
-
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 🤔 I’m looking for help with **gradle errors**
-
-- 💬 Ask me about **Kotlin or any tech related stuff**
-
-- 📫 How to reach me **seifmetwaly78@gmail.com**
-
-- ⚡ Fun fact **I'm a developer not looking like a vampire**
+⚡ Skills & Expertise:
+Languages: Kotlin, Java, PHP
+Architecture: MVVM, MVI, Clean Architecture, SOLID principles
+Dependency Injection: Hilt, Koin
+Databases: Room, SQLite, SQL Server, MySQL
+Networking: Retrofit, Volley, SOAP
+Concurrency: Coroutines, RxJava, AsyncLoaders
+Firebase: Auth, Firestore, Storage, and more
+Backend: Firebase, REST APIs, PHP for database connections
+Design: Material Design, Jetpack Compose
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
