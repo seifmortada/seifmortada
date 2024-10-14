@@ -2,7 +2,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Seif Mortada</h1>
-<h3 align="center">A passionate android developer from Egypt</h3>
+<h3 align="center">A passionate android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/48085222d896c4ab194690cf5820d6288d25e8a1ad22b33b715fdfdbae28e84c/68747470733a2f2f6c61766b7573686b756d61722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30312f70726f66657373696f6e616c2d776f726470726573732d646576656c6f7065722e676966">
 
 
@@ -20,7 +20,7 @@
 
 - Networking: Retrofit, Volley, SOAP
 
-- Concurrency: Coroutines, RxJava, AsyncLoaders
+- Multithreading: Coroutines, AsyncTasks, RxJava
 
 - Firebase: Auth, Firestore, Storage, and more
 
